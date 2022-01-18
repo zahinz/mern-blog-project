@@ -1,1 +1,1 @@
-# mern-blog-project
+# mern-graphql-next-blog-project
